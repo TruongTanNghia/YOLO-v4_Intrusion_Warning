@@ -1,3 +1,7 @@
+#BY: TRƯƠNG TẤN NGHĨA
+#ID: 61131950
+#CLASS: 61-CNTT_2
+#SCHOOL: NHA TRANG UNIVERSITY
 # YOLO-v4_Intrusion_Warning
 ## Tổng Quan
 - Đề tài “SỬ DỤNG THỊ GIÁC MÁY TÍNH ĐỂ PHÁT HIỆN ĐỐI TƯỢNG NGƯỜI ĐI BỘ TRONG NHÀ VÀ CẢNH BÁO XÂM NHẬP” phát triển một ứng dụng có phát hiện đối tượng NGƯỜI ĐI BỘ TRONG NHÀ VÀ CẢNH BÁO XÂM NHẬP, video sử dụng mô hình Yolov4 để phát hiện đối tượng. 
